@@ -5,7 +5,7 @@ const ExpensesFilter =(props)=>{
 
     const onSelect = (evt) =>{
         const year = evt.target.value;
-        // console.log(year)
+        console.log(year)
         props.onChangeFilter(year);
     }
 

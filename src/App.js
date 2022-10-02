@@ -8,7 +8,6 @@ const DUMMY_EXPENSES = [
     title: 'Toilet Paper',
     amount: 94.12,
     date: new Date(Date.UTC(2020, 7, 14, 3)),
-    // date:new Date()
   },
   { id: 'e2', title: 'New TV', amount: 799.49, date: new Date(2021, 2, 12) },
   {
